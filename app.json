@@ -1,9 +1,10 @@
 {
   "expo": {
-    "name": "book-rent",
+    "name": "Book Universe",
     "slug": "book-rent",
     "version": "1.0.0",
     "orientation": "portrait",
+    "sdkVersion": "37.0.0",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -24,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.subroto.sks.bookrent"
+      "package": "com.subroto.sks.bookuniverse"
     },
     "web": {
       "favicon": "./assets/favicon.png"
