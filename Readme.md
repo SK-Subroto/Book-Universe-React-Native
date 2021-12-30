@@ -15,9 +15,8 @@ That is backend code. Technology use: React Native, Expo, Firebase, Native Base.
 - Users can also create new accounts.
 - Admin can add new book and add new admin(coming soon…).
 
-### Screenshots
 
-<p align="center">
+<p align="center"> ### Screenshots
     <span><img src="screenshot/home.jpg" width="300"></span>
     <span><img src="screenshot/myorder.jpg" width="300"></span>
 </p>
