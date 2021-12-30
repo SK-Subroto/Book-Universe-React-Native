@@ -17,7 +17,7 @@ That is backend code. Technology use: React Native, Expo, Firebase, Native Base.
 
 
 <h2 align="center">Screenshots</h2>
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
     <img src="screenshot/home.jpg" width="300">
     <img src="screenshot/myorder.jpg" width="300">
 </div>
