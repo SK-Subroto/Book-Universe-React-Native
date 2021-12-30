@@ -17,5 +17,5 @@ That is backend code. Technology use: React Native, Expo, Firebase, Native Base.
 
 ### Screenshots
 
-<img src="screenshot/home.jpg" width="300">
-<img src="screenshot/myorder.jpg" width="300">
+<img src="screenshot/home.jpg" >
+<img src="screenshot/myorder.jpg" >
