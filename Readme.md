@@ -18,6 +18,6 @@ That is backend code. Technology use: React Native, Expo, Firebase, Native Base.
 
 <h2 align="center">Screenshots</h2>
 <div align="center" style="display: flex;">
-    <img src="screenshot/home.jpg" width="300">
+    <img margin-right: 20px src="screenshot/home.jpg" width="300">
     <img src="screenshot/myorder.jpg" width="300">
 </div>
